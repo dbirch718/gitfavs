@@ -2,3 +2,7 @@ spaghetti
 pizza
 tacos
 hamburger helper
+Lone Ranger
+Star Wars
+Billy Madison
+Happy Gilmore
